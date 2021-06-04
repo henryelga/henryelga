@@ -1,8 +1,10 @@
 
 ### "Every moment is a fresh beginning..."
 
-![Dreams don't work](https://user-images.githubusercontent.com/67817308/120642457-84f74900-c492-11eb-9341-9de69150888f.png)
+![DREAMS](https://user-images.githubusercontent.com/67817308/120789837-beda5500-c54f-11eb-9f46-67a46e26a537.png)
+
 <!--
+![Dreams don't work](https://user-images.githubusercontent.com/67817308/120642457-84f74900-c492-11eb-9341-9de69150888f.png)
 **henryelga/henryelga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
