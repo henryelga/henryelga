@@ -1,5 +1,10 @@
 
-### "Every moment is a fresh beginning..."
+<p align="center">
+  <b>"Every moment is a fresh beginning..."</b>
+</p>
+
+<br>
+<br>
 
 <!-- ![GIF](https://user-images.githubusercontent.com/67817308/135628570-3b7704a2-1bda-4de3-a115-11a6bb5c3b63.gif) -->
 <p align="center">
