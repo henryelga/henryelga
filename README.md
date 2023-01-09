@@ -92,12 +92,12 @@
 <img src="https://img.shields.io/badge/linkedin:  Elga%20Jerusha%20Henry-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </p>
-
+	
 <br>
-
+	
 <p>
-<a href="https://twitter.com/ElgaHenry" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  @henry_elga-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/elgajerushahenry" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  @elgajerushahenry-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </p>
 
@@ -106,6 +106,14 @@
 <p>
 <a href="mailto:elgajerushahenry@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  elgajerushahenry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</p>
+
+<br>
+
+<p>
+<a href="https://twitter.com/ElgaHenry" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  @henry_elga-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </p>
 	
