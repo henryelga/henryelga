@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<a href="https://app.daily.dev/henryelga"><img src="https://api.daily.dev/devcards/cd3c943f24064accab98e5e445c6d360.png?r=6ku" width="250" align="right" alt="Elga J Henry's Dev Card"/></a>
+<a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="250" align="right" alt="Elga J Henry's Dev Card"/></a>
 <br><br><br>
 
 - A passionate Self-taught developer....still got loads to learn...
