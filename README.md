@@ -6,7 +6,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="250" align="right" alt="Elga J Henry's Dev Card"/></a>
-<br><br><br>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=henryelga&label=Profile%20views&color=5F338C&style=flat" alt="henryelga" /> <br>
 
 - A passionate Self-taught developer....still got loads to learn...
 - Playing rubik's cube at spare time
@@ -73,6 +74,7 @@
 <a href="https://github.com/henryelga/">
   <img src="https://github-readme-stats.vercel.app/api?username=henryelga&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henryelga&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="henryelga"/>
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryelga&" alt="henryelga" /></p>
 
 </a>
 </div>
@@ -118,6 +120,9 @@
 </p>
 	
 </ul>
+	
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/henryelga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="henryelga" /></a></p><br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
