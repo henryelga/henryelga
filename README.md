@@ -13,7 +13,7 @@
 - Playing rubik's cube at spare time
 - Currently learning Web Development by Self
 - Personal website: [Elga Jerusha Henry](https://elgajerushahenry.gatsbyjs.io)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://elgajerushahenry.gatsbyjs.io/resume.pdf)
+- I’m currently open for an internship opportunity, this is [my resume](https://elgajerushahenry.gatsbyjs.io/resume.pdf)
 
 <br><br><br>
 
