@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=henryelga&label=Profile%20views&color=5F338C&style=?style=flat-square" alt="henryelga" /> <br>
 
 - A passionate Self-taught developer....still got loads to learn...
-- Playing rubik's cube at spare time
+- Playing rubik's cube during spare time
 - Currently learning Web Development by Self
 - Personal website: [Elga Jerusha Henry](https://elgajerushahenry.gatsbyjs.io)
 - I’m currently open for an internship opportunity, this is [my resume](https://elgajerushahenry.gatsbyjs.io/resume.pdf)
