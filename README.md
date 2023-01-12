@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="250" align="right" alt="Elga J Henry's Dev Card"/></a>
+<a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="350" align="right" alt="Elga J Henry's Dev Card"/></a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=henryelga&label=Profile%20views&color=5F338C&style=?style=flat-square" alt="henryelga" /> <br>
 
