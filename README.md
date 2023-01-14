@@ -5,7 +5,10 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="350" align="right" alt="Elga J Henry's Dev Card"/></a>
+<table width="100%" align="center">
+	<tr>
+		<td valign="center">
+	
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=henryelga&label=Profile%20views&color=5F338C&style=?style=flat-square" alt="henryelga" /> <br>
 
@@ -16,7 +19,13 @@
 - I’m currently open for an internship opportunity, this is [my resume](https://elgajerushahenry.gatsbyjs.io/resume.pdf)
 
 <br><br><br><br>
-
+		</td>
+		<td>
+<a href="https://app.daily.dev/henryelga"><img src="https://github.com/henryelga/henryelga/blob/main/devcard.svg" width="300" align="right" alt="Elga J Henry's Dev Card"/></a>
+		</td>
+		</tr>
+</table>
+	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
