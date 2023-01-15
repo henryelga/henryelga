@@ -14,7 +14,8 @@
 
 - Software Development Student @ Dundalk Institute of Technology
 - A passionate Self-taught developer....still got loads to learn...
-- Playing rubik's cube during spare time
+- Playing rubik's cube <img src="https://user-images.githubusercontent.com/67817308/212503270-43ce069c-d090-4b6e-aece-46502e697e92.png" width="25"/>
+ during spare time
 - Currently learning Web Development by Self
 - Personal website: [Elga Jerusha Henry](https://elgajerushahenry.gatsbyjs.io)
 - I’m currently open for an internship opportunity, this is [my resume](https://elgajerushahenry.gatsbyjs.io/resume.pdf)
