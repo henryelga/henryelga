@@ -35,7 +35,7 @@
 
 - **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
@@ -50,8 +50,9 @@
 
 - **Cloud Hosting**:
 
-    ![Gatsby JS](https://img.shields.io/badge/Gatsby%20JS-%4B0082.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Gatsby JS](https://img.shields.io/badge/Gatsby%20JS-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/netlify-00c7b7.svg?style=for-the-badge&logo=netlify&logoColor=white)
     
 <br>
 
@@ -66,10 +67,10 @@
 
 - **Extras**:
 
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Flask](https://img.shields.io/badge/flask-%23F7DF1E.svg?style=for-the-badge&logo=flask&logoColor=black)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
     ![Svelte](https://img.shields.io/badge/svelte-%23F05033.svg?style=for-the-badge&logo=svelte&logoColor=white) 
-    ![Jupyter](https://img.shields.io/badge/jupyter-%40E0D0.svg?style=for-the-badge&logo=jupyter&logoColor=black)
+    ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=black)
 
 </p>
 
