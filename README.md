@@ -71,6 +71,7 @@
     ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
     ![Svelte](https://img.shields.io/badge/svelte-%23F05033.svg?style=for-the-badge&logo=svelte&logoColor=white) 
     ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=black)
+    ![React JS](https://img.shields.io/badge/react%20js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 </p>
 
