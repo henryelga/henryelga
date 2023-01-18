@@ -73,6 +73,7 @@
     ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=black)
     ![React JS](https://img.shields.io/badge/react%20js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
     ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black)
+    ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </p>
 
