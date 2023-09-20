@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=henryelga&label=Profile%20views&color=5F338C&style=?style=flat-square" alt="henryelga" /> <br>
 
 - Software Development Student @ Dundalk Institute of Technology
-- A passionate Self-taught developer....still got loads to learn...
+- Self-taught developer....still got loads to learn...
 - Rubik's cube <img src="https://user-images.githubusercontent.com/67817308/212503270-43ce069c-d090-4b6e-aece-46502e697e92.png" width="25"/>
  during spare time
 - Currently learning Web Development by Self
