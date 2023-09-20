@@ -110,9 +110,6 @@
 <a href="https://instagram.com/elgajerushahenry" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  @elgajerushahenry-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
-<a href="mailto:elgajerushahenry@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  elgajerushahenry-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/henryelga" target="_blank">
 <img src="https://img.shields.io/badge/github:  @henryelga-%2300acee.svg?color=121011&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
 </a>
@@ -127,9 +124,6 @@
 <br>
 	
 </ul>
-	
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/henryelga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="henryelga" /></a></p><br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
